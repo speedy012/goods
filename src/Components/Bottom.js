@@ -20,7 +20,7 @@ function Bottom() {
             <li>Free shipping on orders with $45.</li>
             <li>
               Direct-to-consumer prices on <br />
-              hundreds of premium products
+              hundreds of premium products.
             </li>
           </ul>
         </div>
