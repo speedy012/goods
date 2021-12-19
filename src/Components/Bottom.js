@@ -19,7 +19,7 @@ function Bottom() {
         <ul className="mr-4">
           <li className="li2 mt-4">Cancel anytime during the free trial.</li>
           <li className="li2 mt-4">Free shipping on orders with $45.</li>
-          <li className="lt li2 mt-4">
+          <li className="li2 mt-4 mb-24">
             Direct-to-consumer prices on <br className="br2" />
             hundreds <br className="br1 hidden" /> of premium products.
           </li>
