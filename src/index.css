@@ -49,10 +49,6 @@ code {
 
 
 @media screen and (max-width:428px) {
-  /* main img, main form{
-    width: 100%;
-  } */
-
   main {
     flex-direction: column;
     width: 100%;
@@ -139,7 +135,7 @@ code {
   }
 
   
-/* ------ Middle Component ------*/
+/* ------ Bottom Component ------*/
 
 .bottom {
   flex-direction: column;
