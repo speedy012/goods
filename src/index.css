@@ -32,3 +32,21 @@ code {
 .bg-mid {
   background-color: #f4f4f4;
 }
+
+.spacing {
+  letter-spacing: -0.2em;
+}
+
+li:before {
+  content: '✔';
+  margin-right: 10px;
+  
+  /* padding: 10px 0 10px 20px; */
+    /* text-indent: -1em; */
+
+}
+
+li {
+  padding-left: 1.6em;
+    text-indent: -1.5em;
+}

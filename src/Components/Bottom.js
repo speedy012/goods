@@ -8,17 +8,19 @@ function Bottom() {
         <div className="flex flex-col w-1/2">
           <img src={cat2} alt="cat treat" className="h-full w-full" />
         </div>
-        <div className="flex flex-col w-1/2  border border-blue-600 mt-10">
-          <h5 className="mt-6 font-bold">Pet Approved</h5>
-          <h5 className="mt-2">It feels good to be a member.</h5>
-          <p>
+        <div className="flex flex-col w-1/2 p-24">
+          <h5 className="mt-6 font-bold spacing ">PET-APPROVED</h5>
+          <h5 className="mt-7 font-bold tracking-wide">
+            It feels good to be a member.
+          </h5>
+          <p className="mt-5">
             After your free trial, become a full-time <br /> member with
             benefits for $59 a year.
           </p>
-          <ul>
-            <li>Cancel anytime during the free trial.</li>
-            <li>Free shipping on orders with $45.</li>
-            <li>
+          <ul className="mr-4 list-outside">
+            <li className="mt-4">Cancel anytime during the free trial.</li>
+            <li className="mt-4">Free shipping on orders with $45.</li>
+            <li className="mt-4">
               Direct-to-consumer prices on <br />
               hundreds of premium products.
             </li>
